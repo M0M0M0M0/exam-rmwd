@@ -3,30 +3,30 @@
     "id": 1,
     "subject": "ReactJS",
     "description": "With a program design that includes 04 semesters with many important technologies such as ReactJS, PHP, Python, .NET Core, Spring Boot brings learners to the world of programming quickly, most effectively. After graduation, students are confident in front of employers with 4 project semesters with quality, practical products, students will definitely score points.",
-    "image": "/public/images/reactjs.png"
+    "image": "images/reactjs.png"
   },
   {
     "id": 2,
     "subject": "PHP",
     "description": "With a program design that includes 04 semesters with many important technologies such as ReactJS, PHP, Python, .NET Core, Spring Boot brings learners to the world of programming quickly, most effectively. After graduation, students are confident in front of employers with 4 project semesters with quality, practical products, students will definitely score points.",
-    "image": "/public/images/php.png"
+    "image": "images/php.png"
   },
   {
     "id": 3,
     "subject": "Python",
     "description": "Python is one of the most popular programming languages today, widely used in AI, machine learning, web development and data analysis. Learning Python at FPT Aptech helps students access diverse technology fields and expand career opportunities.",
-    "image": "/public/images/python.jpg"
+    "image": "images/python.jpg"
   },
   {
     "id": 4,
     "subject": ".NET Core",
     "description": "With a program design that includes 04 semesters with many important technologies such as ReactJS, PHP, Python, .NET Core, Spring Boot brings learners to the world of programming quickly, most effectively. After graduation, students are confident in front of employers with 4 project semesters with quality, practical products, students will definitely score points.",
-    "image": "/public/images/netcore.png"
+    "image": "images/netcore.png"
   },
   {
     "id": 5,
     "subject": "Spring Boot",
     "description": "Spring Boot is a powerful Java framework for building enterprise applications quickly and efficiently. With practical projects, learners will be able to confidently develop scalable and secure systems widely used by businesses.",
-    "image": "/public/images/springboot.png"
+    "image": "images/springboot.png"
   }
 ]
