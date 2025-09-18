@@ -8,7 +8,7 @@ function App() {
     <>
     <div className="container">
       <Header />
-      <img src="/public/banner.png" alt="FPT Aptech Banner" style={{ width: '100%', margin: '32px 0' }} />
+      <img src="banner.png" alt="FPT Aptech Banner" style={{ width: '100%', margin: '32px 0' }} />
       <Object />
       <Subject />
       <Footer /></div>
