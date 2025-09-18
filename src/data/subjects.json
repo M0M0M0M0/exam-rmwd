@@ -1,0 +1,22 @@
+[
+  {
+    "title": "reactJs",
+    "image": "/public/images/reactjs.png"
+},
+  {
+    "title": "php",
+    "image": "/public/images/php.png"
+  },
+  {
+    "title": "python",
+    "image": "/public/images/python.jpg"
+  },
+  {
+    "title": "netcore",
+    "image": "/public/images/netcore.png"
+  },
+  {
+    "title": "springboot",
+    "image": "/public/images/springboot.png"
+  }
+]

@@ -1,0 +1,46 @@
+.subject-section {
+  background: #fff;
+  padding: 40px 0 32px 0;
+}
+
+.subject-title {
+  text-align: center;
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 32px;
+  letter-spacing: 1px;
+  color: #222;
+}
+
+.subject-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 36px;
+  margin-bottom: 24px;
+  flex-wrap: wrap;
+}
+
+.subject-icon {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+  background: #fff;
+  border-radius: 50%;
+  box-shadow: 0 2px 12px 0 rgba(0,0,0,0.08);
+  padding: 12px;
+  transition: box-shadow 0.2s;
+}
+
+.subject-icon:hover {
+  box-shadow: 0 4px 24px 0 rgba(0,0,0,0.14);
+}
+
+.subject-desc {
+  text-align: center;
+  font-size: 16px;
+  color: #444;
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.6;
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "title": "HIGH SCHOOL STUDENT",
+    "image": "/public/images/highschool.jpg",
+    "desc": "You want to pursue information technology, want to study in a professional programming training environment, with a systematic program and guaranteed output."
+  },
+  {
+    "title": "STUDENT",
+    "image": "/public/images/student.jpg",
+    "desc": "You want to pursue information technology, want to study in a professional programming training environment, with a systematic program and guaranteed output."
+  },
+  {
+    "title": "WORKING",
+    "image": "/public/images/working.jpg",
+    "desc": "You want to pursue information technology, want to study in a professional programming training environment, with a systematic program and guaranteed output."
+  }
+]

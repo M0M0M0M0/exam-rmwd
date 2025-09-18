@@ -1,0 +1,72 @@
+
+.object-section {
+  background: #f9f9f9; /* đồng bộ với nền */
+  padding: 40px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Tiêu đề */
+.object-title {
+  text-align: center;
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 32px;
+  letter-spacing: 1px;
+  color: #222;
+}
+
+
+.object-cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 32px;
+  max-width: 1100px;
+  width: 100%;
+  padding: 0 20px;
+}
+
+/* Card */
+.object-card {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 16px 0 rgba(0, 0, 0, 0.07);
+  padding: 24px 18px 18px 18px;
+  text-align: center;
+  transition: box-shadow 0.2s;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.object-card:hover {
+  box-shadow: 0 4px 24px 0 rgba(0, 0, 0, 0.12);
+}
+
+/* Hình ảnh trong card */
+.object-img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 18px;
+}
+
+/* Tiêu đề card */
+.object-card-title {
+  font-size: 18px;
+  font-weight: 600;
+  color: #1976d2;
+  margin-bottom: 10px;
+  margin-top: 0;
+  letter-spacing: 0.5px;
+}
+
+/* Nội dung card */
+.object-card p {
+  font-size: 15px;
+  color: #444;
+  margin: 0;
+  line-height: 1.4;
+}
